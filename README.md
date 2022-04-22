@@ -2,6 +2,12 @@
 Uma biblioteca simples para comunicação p2p na rede local
 
 ## Instalar
+### Release
+```bash
+$ pip install pylion-yellowakita
+```
+
+### Debug
 ```bash
 $ pip install -e lion
 ```
